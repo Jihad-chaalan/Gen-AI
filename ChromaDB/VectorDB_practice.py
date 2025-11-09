@@ -153,3 +153,5 @@ my_db_collection.delete(where={"topic": "RAG"})   # some clients accept 'where' 
 client.delete_collection(name=my_db_collection_name)
 print("Collections after delete: ", [c.name for c in client.list_collections()])
 print("##########Step8 Deleting✅#############")
+
+

@@ -1,0 +1,65 @@
+Letter,Disease_Name,Category,Description,Prevalence_Range,Source_URL
+A,Adrenoleukodystrophy (ALD),Metabolic/Leukodystrophy,"Rare X-linked disorder causing breakdown of myelin due to very-long-chain fatty acid buildup. Affects brain, adrenal glands, and nerves.",1 in 17,000 (males),https://www.ninds.nih.gov/health-information/disorders/adrenoleukodystrophy
+A,Adult-Onset Leukoencephalopathy With Axonal Spheroids and Pigmented Glia (ALSP),Leukodystrophy,"Rare progressive white matter disease with cognitive decline, motor issues, and psychiatric symptoms. Caused by CSF1R gene mutations.",<1 in 1,000,000,https://www.ninds.nih.gov/health-information/disorders/adult-onset-leukoencephalopathy-axonal-spheroids-and-pigmented-glia-alsp
+A,ALS and Neuromuscular Diseases,Neurodegenerative,"Group of progressive motor neuron diseases including Amyotrophic Lateral Sclerosis (ALS).",Varies by subtype,https://www.ninds.nih.gov/health-information/disorders/amyotrophic-lateral-sclerosis-als
+A,Alzheimer’s Disease,Neurodegenerative,"Most common cause of dementia; progressive memory loss, confusion, and behavioral changes due to amyloid plaques and tau tangles.",1 in 9 (age 65+),https://www.nia.nih.gov/health/alzheimers-disease-fact-sheet
+A,Amyotrophic Lateral Sclerosis (ALS),Neurodegenerative,"Progressive degeneration of motor neurons leading to muscle weakness, paralysis, and death. Also known as Lou Gehrig’s disease.",1 in 300 lifetime risk,https://www.ninds.nih.gov/health-information/disorders/amyotrophic-lateral-sclerosis-als
+A,Angelman Syndrome,Neurogenetic,"Genetic disorder causing developmental delay, severe speech impairment, ataxia, and inappropriate laughter. Due to UBE3A gene defect.",1 in 12,000–20,000,https://www.ninds.nih.gov/health-information/disorders/angelman-syndrome
+A,Aphasia,Language Disorder,"Impairment of language comprehension or expression due to brain damage (usually stroke).",1 in 250 post-stroke,https://www.ninds.nih.gov/health-information/disorders/aphasia
+A,Ataxia,Movement Disorder,"Loss of coordination in voluntary movements, often due to cerebellar damage.",Varies by type,https://www.ninds.nih.gov/health-information/disorders/ataxia
+A,Autism,Neurodevelopmental,"Spectrum of conditions with challenges in social interaction, communication, and repetitive behaviors.",1 in 36 children (CDC),https://www.cdc.gov/autism
+A,Autism and Neurodevelopment,Neurodevelopmental,"Broad category including autism, intellectual disability, and developmental delays.",Varies,https://www.ninds.nih.gov/health-information/disorders/autism-spectrum-disorder
+A,Autoimmune Diseases,Immune-Mediated,"Disorders where immune system attacks nervous system (e.g., MS, Guillain-Barré).",Varies by disease,https://www.ninds.nih.gov/health-information/disorders/autoimmune-diseases
+B,Batten Disease,Neurodegenerative/Lysosomal,"Rare inherited disorder causing vision loss, seizures, and cognitive decline. Also called neuronal ceroid lipofuscinosis.",1 in 100,000,https://www.ninds.nih.gov/health-information/disorders/batten-disease
+B,Bell’s Palsy,Facial Nerve Disorder,"Sudden weakness or paralysis of facial muscles, usually on one side. Often viral-triggered.",1 in 60 lifetime,https://www.ninds.nih.gov/health-information/disorders/bells-palsy
+B,Brain and Nerve Tumors,Oncology,"Tumors of the brain (glioma, meningioma) or peripheral nerves (schwannoma).",22.6 per 100,000,https://www.cancer.gov/types/brain
+B,Brain Aneurysm,Vascular,"Bulge in brain artery wall that can rupture and cause hemorrhagic stroke.",2–3% of population,https://www.ninds.nih.gov/health-information/disorders/brain-aneurysm
+C,CADASIL,Vascular Dementia,"Inherited small vessel disease causing strokes and dementia. NOTCH3 gene mutation.",1–5 in 100,000,https://www.ninds.nih.gov/health-information/disorders/cadasil
+C,Cerebral Palsy,Motor Disorder,"Group of disorders affecting movement and posture due to early brain damage.",1 in 345 children,https://www.cdc.gov/cerebral-palsy
+C,Cerebral Small Vessel Disease,Vascular,"Damage to small brain arteries leading to cognitive decline and stroke.",Common in elderly,https://www.ninds.nih.gov/health-information/disorders/cerebral-small-vessel-disease
+C,Chiari Malformation,Structural,"Brain tissue extends into spinal canal. Causes headaches, balance issues.",1 in 1,000,https://www.ninds.nih.gov/health-information/disorders/chiari-malformation
+C,Chronic Traumatic Encephalopathy (CTE),Neurodegenerative,"Progressive degeneration from repeated head impacts. Seen in athletes and veterans.",Unknown (post-mortem),https://www.ninds.nih.gov/health-information/disorders/chronic-traumatic-encephalopathy-cte
+C,Concussion,Traumatic Brain Injury,"Mild TBI causing temporary brain dysfunction. Symptoms: headache, confusion, memory issues.",1.7–3 million/year (US),https://www.cdc.gov/traumatic-brain-injury
+C,Cushing’s Syndrome,Endocrine,"Excess cortisol affecting brain function, mood, and cognition.",40–70 per million,https://www.ninds.nih.gov/health-information/disorders/cushings-syndrome
+D,Dementia,Neurodegenerative,"Umbrella term for cognitive decline severe enough to affect daily life (Alzheimer’s, vascular, Lewy body).",1 in 10 (age 65+),https://www.alz.org/alzheimers-dementia/what-is-dementia
+D,Dysautonomia,Autonomic Disorder,"Malfunction of autonomic nervous system affecting heart rate, blood pressure, digestion.",Millions affected,https://www.ninds.nih.gov/health-information/disorders/dysautonomia
+D,Dyslexia,Learning Disorder,"Difficulty reading due to problems identifying speech sounds and relating them to letters.",1 in 5–10,https://www.ninds.nih.gov/health-information/disorders/dyslexia
+D,Dystonia,Movement Disorder,"Sustained muscle contractions causing twisting movements or abnormal postures.",1 in 2,000–3,000,https://www.ninds.nih.gov/health-information/disorders/dystonia
+E,Encephalitis,Infectious,"Brain inflammation, usually viral. Causes fever, confusion, seizures.",1 in 100,000/year,https://www.ninds.nih.gov/health-information/disorders/encephalitis
+E,Epilepsy,Seizure Disorder,"Chronic disorder with recurrent unprovoked seizures.",1 in 100,https://www.epilepsy.com
+F,Fibromyalgia,Chronic Pain,"Widespread pain, fatigue, cognitive issues. Central sensitization disorder.",2–4% of adults,https://www.niams.nih.gov/health-topics/fibromyalgia
+F,Frontotemporal Disorders,Neurodegenerative,"Group of dementias affecting behavior, personality, and language (e.g., Pick’s disease).",1 in 20,000,https://www.ninds.nih.gov/health-information/disorders/frontotemporal-dementia
+F,Functional Neurologic Disorder,Psychogenic,"Neurological symptoms (paralysis, seizures) without structural cause. Often stress-related.",10–30% of neurology visits,https://www.ninds.nih.gov/health-information/disorders/functional-neurologic-disorder
+G,Guillain-Barré Syndrome,Autoimmune Neuropathy,"Rapid-onset muscle weakness caused by immune attack on peripheral nerves.",1–2 in 100,000/year,https://www.ninds.nih.gov/health-information/disorders/guillain-barre-syndrome
+H,Headache,Primary/Secondary,"Includes migraine, tension, cluster. Can be disabling.",50% of adults,https://www.who.int/news-room/fact-sheets/detail/headache-disorders
+H,Headache and Pain,Chronic Pain,"Broad category of persistent head and body pain syndromes.",Varies,https://www.ninds.nih.gov/health-information/disorders/headache
+H,Huntington’s Disease,Neurogenetic,"Inherited disorder causing progressive brain cell death. Symptoms: movement, cognitive, psychiatric.",1 in 10,000,https://www.ninds.nih.gov/health-information/disorders/huntingtons-disease
+H,Hydrocephalus,Structural,"Excess cerebrospinal fluid in brain causing pressure and cognitive issues.",1 in 1,000 births,https://www.ninds.nih.gov/health-information/disorders/hydrocephalus
+L,Lewy Body Dementia,Neurodegenerative,"Dementia with hallucinations, parkinsonism, and fluctuating cognition. Alpha-synuclein deposits.",1.4 million (US),https://www.nia.nih.gov/health/lewy-body-dementia
+M,Mal de Débarquement Syndrome (MdDS),Vestibular,"Persistent rocking sensation after travel (boat, plane).",1 in 10,000 travelers,https://www.ninds.nih.gov/health-information/disorders/mal-de-debarquement-syndrome-mdds
+M,Meningitis,Infectious,"Inflammation of brain and spinal cord membranes. Bacterial or viral.",Varies by type,https://www.ninds.nih.gov/health-information/disorders/meningitis
+M,Migraine,Headache Disorder,"Recurrent severe headache with nausea, light sensitivity.",1 in 7 people,https://www.migrainetrust.org/about-migraine
+M,Movement Disorders,Neurological,"Includes Parkinson’s, essential tremor, dystonia, tics.",Varies,https://www.ninds.nih.gov/health-information/disorders/movement-disorders
+M,Moyamoya Disease,Vascular,"Progressive narrowing of brain arteries leading to stroke risk.",1 in 100,000,https://www.ninds.nih.gov/health-information/disorders/moyamoya-disease
+M,Multiple Sclerosis,Autoimmune,"Immune attack on myelin causing fatigue, numbness, vision loss, mobility issues.",1 in 700 (US),https://www.nationalmssociety.org
+M,Muscular Dystrophy,Genetic,"Group of 30+ genetic diseases causing progressive muscle weakness.",1 in 3,500 males (Duchenne),https://www.mda.org
+M,Myasthenia Gravis,Autoimmune Neuromuscular,"Muscle weakness worsening with activity. Affects eyes, face, throat.",1 in 5,000,https://www.ninds.nih.gov/health-information/disorders/myasthenia-gravis
+N,Neurogenetic Diseases,Genetic,"Disorders caused by gene mutations affecting the nervous system.",Varies,https://www.ninds.nih.gov/health-information/disorders/neurogenetic-disorders
+N,Neuroinfectious Diseases,Infectious,"Brain infections: encephalitis, meningitis, prion diseases.",Varies,https://www.ninds.nih.gov/health-information/disorders/neuroinfectious-diseases
+N,Neurorehabilitation,Rehabilitation,"Therapies to restore function after brain injury, stroke, or disease.",N/A,https://www.ninds.nih.gov/health-information/disorders/neurorehabilitation
+P,PANS/PANDAS,Autoimmune Neuropsychiatric,"Sudden onset OCD and tics triggered by infections (streptococcus).",1 in 200 children (est.),https://www.nimh.nih.gov/health/topics/pandas
+P,Parkinson’s Disease,Neurodegenerative,"Progressive loss of dopamine cells causing tremor, stiffness, slowness.",1 in 500 (age 60+),https://www.parkinson.org
+P,Peripheral Neuropathy,Nerve Disorder,"Damage to peripheral nerves causing pain, numbness, weakness.",2–8% of adults,https://www.ninds.nih.gov/health-information/disorders/peripheral-neuropathy
+P,Post-Traumatic Stress Disorder (PTSD),Psychiatric,"Persistent mental distress after trauma. Affects memory, mood, arousal.",6–8% lifetime,https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd
+P,Progressive Supranuclear Palsy (PSP),Tauopathy,"Rare Parkinson-like disease with falls, eye movement issues, dementia.",1 in 100,000,https://www.ninds.nih.gov/health-information/disorders/progressive-supranuclear-palsy-psp
+R,REM Sleep Behavior Disorder (RBD),Sleep Disorder,"Acting out vivid dreams due to lack of muscle atonia in REM sleep. Precursor to Parkinson’s.",1–2% over age 50,https://www.ninds.nih.gov/health-information/disorders/rem-sleep-behavior-disorder
+S,Schizencephaly,Structural,"Congenital brain malformation with clefts lined by gray matter.",1 in 70,000 births,https://www.ninds.nih.gov/health-information/disorders/schizencephaly
+S,Sleep Disorders,Neurological,"Includes insomnia, sleep apnea, narcolepsy, RBD.",1 in 3 adults,https://www.ninds.nih.gov/health-information/disorders/sleep-disorders
+S,Spinal Muscular Atrophy,Genetic Motor,"Progressive motor neuron loss leading to muscle weakness. SMA Type 1 most severe.",1 in 10,000 births,https://www.curesma.org
+S,Stiff Person Syndrome,Autoimmune,"Rare disorder with muscle stiffness and painful spasms. GAD antibody positive.",1 in 1,000,000,https://www.ninds.nih.gov/health-information/disorders/stiff-person-syndrome
+S,Stroke,Vascular,"Sudden interruption of blood to brain causing cell death. Ischemic or hemorrhagic.",1 in 6 lifetime risk,https://www.stroke.org
+T,Terson Syndrome,Ocular-Neurological,"Vitreous hemorrhage following subarachnoid hemorrhage.",8–14% of SAH cases,https://pubmed.ncbi.nlm.nih.gov/28620723/
+T,Tourette Syndrome,Tic Disorder,"Involuntary motor and vocal tics. Onset in childhood.",1 in 160 children,https://www.cdc.gov/ncbddd/tourette
+T,Transient Ischemic Attack (TIA),Vascular,"Mini-stroke with temporary symptoms. Warning sign of full stroke.",200,000/year (US),https://www.stroke.org
+T,Traumatic Brain Injury,Injury,"Brain damage from external force. Ranges from mild (concussion) to severe.",2.8 million/year (US),https://www.cdc.gov/traumatic-brain-injury
+T,Tremors,Movement Disorder,"Rhythmic shaking. Includes essential tremor, Parkinsonian tremor.",4–5% over age 40,https://www.ninds.nih.gov/health-information/disorders/tremor

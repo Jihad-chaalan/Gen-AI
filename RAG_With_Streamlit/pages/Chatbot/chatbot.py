@@ -7,6 +7,8 @@ from pages.Chatbot.rag_step_8_call_llm import generate_answer
 from dotenv import load_dotenv
 load_dotenv()
 
+# st.write(os.getenv("DEEPSEEK_API_KEY"))
+
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
@@ -23,7 +25,7 @@ def generate_response():
     #step 7: prepare a prompt
     prompt = prepare_prompt(st.session_state.user_msg, result['documents'][0])   
     #step 8: call deepseek and get an answer
-    answer = generate_answer(prompt, os.getenv("Gemini_API_KEY"))
+    answer = generate_answer(prompt, os.getenv("DEEPSEEK_API_KEY"))
    
     st.session_state.messages.append({
         "role":"user",
@@ -47,15 +49,19 @@ def generate_response():
 # question_list.append(user_question)
 
 
+#####ChatBot Page####
+st.title("ChatBot answer based on your documents🤖")
+
+
+
 if "rag_collection" not in st.session_state:
-    st.write("Please enter files before asking the chabot :)")
+    st.write("Please enter documents before asking the chabot :)")
 else:
     st.text_input("Please enter your message", key="user_msg", on_change=generate_response)
 
 
 
-#####ChatBot Page####
-st.title("ChatBot using Gemini API🤖")
+
 
 
 for m in  st.session_state.messages:

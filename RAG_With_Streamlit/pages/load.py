@@ -4,6 +4,20 @@ from pages.rag_step_2_chunking import chunk_documents
 from pages.rag_step_3_embeddings import embed_texts
 from pages.rag_step_4_vector_db import get_db_collection
 
+
+
+st.title("Adding the data📊")
+
+with st.expander("Explanation about this page"):
+    st.write(   """
+        After adding the documents, your documents go through the 4-step of RAG worflow: 
+    1. **Loading** : Extract text from various file formats (PDF, DOCX, TXT, etc.)
+    2. **Chunking** : Split content into manageable pieces with overlap
+    3. **Embedding** : Convert text to numerical vectors using AI models
+    4. **Storage** : Save vectors + metadata in ChromaDB for fast retrieval \n
+    (you see after each step that is finished :) )
+             """)
+
 uploaded_files = st.file_uploader(
     "Choose documents",
     type=['txt', 'pdf', 'docx', 'csv', 'xlsx', 'json'],
